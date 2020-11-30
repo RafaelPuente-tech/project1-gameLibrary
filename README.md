@@ -1,3 +1,3 @@
-# project1-gameLibrary
+# Project1-gameLibrary
 First Project for school
 Simple data collector for owned games :)
